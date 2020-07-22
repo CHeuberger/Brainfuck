@@ -1,0 +1,7 @@
+/.settings/
+/build/
+/dist/
+CVS/
+*.swp
+*~
+*.bak

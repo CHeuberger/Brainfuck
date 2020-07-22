@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cfh.bf.IDE
+Implementation-Vendor: Carlos F. Heuberger
+
